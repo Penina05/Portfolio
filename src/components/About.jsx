@@ -46,7 +46,7 @@ export default function About() {
               interfaces and engaging interactions.
             </p>
             <p className="text-lg text-rose-900/90 leading-relaxed mb-6">
-              When I'm not designing or coding, you'll find me exploring new trends, sipping matcha, or
+              When I'm not designing or coding, you'll find me exploring new trends, sipping bubble tea, or
               getting inspired by art and nature. I believe great design should feel effortless — elegant
               yet approachable.
             </p>
