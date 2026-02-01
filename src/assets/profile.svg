@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#fecdd3"/>
+  <circle cx="200" cy="160" r="70" fill="#fda4af"/>
+  <ellipse cx="200" cy="340" rx="120" ry="90" fill="#fda4af"/>
+  <text x="200" y="220" text-anchor="middle" fill="#e11d48" font-family="sans-serif" font-size="24">Your Photo</text>
+  <text x="200" y="250" text-anchor="middle" fill="#e11d48" font-family="sans-serif" font-size="14" opacity="0.8">Replace src/assets/profile.svg</text>
+</svg>
